@@ -5,8 +5,7 @@ TyulevLO23@spb.ithub.ru
 
 1) **Заходим на сайт github**
 
-<img width="1418" height="1034" alt="image" src="https://github.com/user-attachments/assets/8132d305-7218-48a5-
-8571-371e702f5f35" />
+<img width="1418" height="1034" alt="image" src="https://github.com/user-attachments/assets/8132d305-7218-48a5-8571-371e702f5f35" />
 
 2) **Нажимаем на кнопку New чтобы создать репозиторий**
 
@@ -24,7 +23,7 @@ TyulevLO23@spb.ithub.ru
 
 <img width="1406" height="1036" alt="image" src="https://github.com/user-attachments/assets/0e65cd3b-9f82-4fce-a003-9ca4652baef7" />
 
-6) **Создаем репозиторий и нажимаем на файл (в моем случае) git.txt.txt
+6) **Создаем репозиторий и нажимаем на файл** (в моем случае) git.txt.txt
 
 <img width="1422" height="1043" alt="image" src="https://github.com/user-attachments/assets/1e277846-ae73-4d48-9efb-df203697af99" />
 
